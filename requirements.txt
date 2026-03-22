@@ -1,6 +1,6 @@
 matplotlib
 streamlit
-sklearn
+scikit-learn
 nltk
 PyPDF2
 re
