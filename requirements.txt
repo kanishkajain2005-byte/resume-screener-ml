@@ -1,0 +1,8 @@
+matplotlib
+streamlit
+sklearn
+nltk
+PyPDF2
+re
+collections
+sentence-transformers
